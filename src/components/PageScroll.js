@@ -18,7 +18,7 @@ export const ScrollPoint = ({ id }) => (
   <div
     id={id}
     className="scroll-point"
-    style={{ height: 2, backgroundColor: "red" }}
+    style={{ height: 2, backgroundColor: "orange" }} // Only for presentation
   />
 );
 
